@@ -87,7 +87,7 @@ service-worker: true
 friends: [
     {
         title: "ZTE",
-        href: "http://zte.com.cn"
+        href: "http://www.zte.com.cn"
     },{
         title: "Apple",
         href: "https://apple.com"
