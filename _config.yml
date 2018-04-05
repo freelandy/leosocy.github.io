@@ -11,7 +11,7 @@ github_repo: "https://github.com/leosocy/leosocy.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "========Hi, this is Leosocy's Blog.========"
+sidebar-about-description: "==Hi, this is Leosocy's Blog.=="
 sidebar-avatar: /img/avatar-leosocy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
