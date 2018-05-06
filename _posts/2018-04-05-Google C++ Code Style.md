@@ -1242,9 +1242,6 @@ vector<string> v = {"foo", "bar"};
 // 可以配合 new 一起用。
 auto p = new vector<string>{"foo", "bar"};
 
-// map 接收了一些 pair, 列表初始化大显神威。
-map<int, string> m = {{1, "one"}, {2, "2"}};
-
 // 初始化列表也可以用在返回类型上的隐式转换。
 vector<int> test_function() { return {1, 2, 3}; }
 
