@@ -2,7 +2,7 @@
 layout:     post
 title:      Google Python 编程风格
 subtitle:   养成良好的编程习惯和风格，让代码像诗一样优美
-date:       2018-04-26
+date:       2018-05-20
 author:     Leosocy
 header-img: img/post-bg-black-series-1.jpg
 catalog: true
